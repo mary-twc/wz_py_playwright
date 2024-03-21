@@ -1,0 +1,7 @@
+[tool.pytest.ini_options]
+markers = [
+    "authentication: Authentication tests"
+]
+
+[tool.black]
+line-length = 79

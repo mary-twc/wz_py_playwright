@@ -1,0 +1,47 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+appdirs = "*"
+atomicwrites = "*"
+attrs = "*"
+black = "*"
+certifi = "*"
+chardet = "*"
+click = "*"
+colorama = "*"
+flake8 = "*"
+greenlet = "*"
+idna = "*"
+iniconfig = "*"
+isort = "*"
+mccabe = "*"
+mypy-extensions = "*"
+pathspec = "*"
+playwright = "*"
+pluggy = "*"
+py = "*"
+pycodestyle = "*"
+pydocstyle = "*"
+pyee = "*"
+pyflakes = "*"
+pyparsing = "*"
+pytest = "*"
+pytest-base-url = "*"
+pytest-playwright = "*"
+regex = "*"
+requests = "*"
+snowballstemmer = "*"
+toml = "*"
+typed-ast = "*"
+typing-extensions = "*"
+urllib3 = "*"
+pytest-asyncio = "*"
+pytest-xdist = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
